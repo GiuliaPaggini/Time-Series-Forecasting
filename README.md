@@ -3,7 +3,7 @@ This repository will cointain all the code and files used for my final paper wor
 
 1)Datasets
   - AAPL Stock Price
-  - S&P 500 Index
+  - NASDAQ 100 Index
   - WTI Crude Oil Price
   
 2)Final paper link: https://www.overleaf.com/project/63f61fd58fcc2803bc84841d
