@@ -16,4 +16,7 @@ Sources database : https://docs.google.com/spreadsheets/d/1BV4IQEIfmvYyZ_Zg1SkKF
 Notes of the analysis: 
 
 Colab: https://colab.research.google.com/drive/157etElqtW29wuqbNWBybqjqWhdMsBMpJ#scrollTo=5cn2GzSeFTnu
-https://colab.research.google.com/drive/1jkrD2I6Kn4cNpBI0BuamBmp5FSBwkciO#scrollTo=ZwcMcDIcSuGH - LSTM
+https://colab.research.google.com/drive/1jkrD2I6Kn4cNpBI0BuamBmp5FSBwkciO#scrollTo=ZwcMcDIcSuGH 
+
+- LSTM
+https://colab.research.google.com/drive/1KzfqZRZfSvFtYxtrnUH-mAXSaiqGVa6t#scrollTo=7sE9j-mQo0gh
