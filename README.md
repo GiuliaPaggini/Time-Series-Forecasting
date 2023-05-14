@@ -1,10 +1,11 @@
-# On the granularity of data: a comparison between classical and deep learning approaches for time series forecasting
-This repository will cointain all the code and files used for my final paper work. Time series analysis is the core of the project, in particular ARIMA, LSTM and Transformer models are compared across three financial datasets with different granularities.
+# On the granularity of data: a Comparison between Classical and Deep Learning approaches for Time Series Forecasting
+This repository contains all the support material I have used for my final work. Time series analysis is the core of the project, in particular ARIMA and SARIMA, LSTM and Transformer models are compared across three financial datasets with different granularities.
+The repo is organized as follows:
 
 1)Datasets
-  - AAPL Stock Price
-  - NASDAQ 100 Index
-  - WTI Crude Oil Price
+  - AAPL Stock Price : daily frequency
+  - NASDAQ 100 Index : minute frequency
+  - WTI Crude Oil Price : monthly frequency
   
 2)Final paper link: https://www.overleaf.com/project/63f61fd58fcc2803bc84841d
 
