@@ -18,6 +18,11 @@ Notes of the analysis:
 
 Colab: https://colab.research.google.com/drive/157etElqtW29wuqbNWBybqjqWhdMsBMpJ#scrollTo=5cn2GzSeFTnu
 https://colab.research.google.com/drive/1jkrD2I6Kn4cNpBI0BuamBmp5FSBwkciO#scrollTo=ZwcMcDIcSuGH 
+
+LSTM new https://colab.research.google.com/drive/1eTMbGWu9db1ql_oMTuNwzhn2H7a5QKuJ#scrollTo=12jBIRxyyVII
+
+
 - ARIMA/SARIMA (inviato al prof)
 - LSTM (inviato al prof)
 https://colab.research.google.com/drive/1KzfqZRZfSvFtYxtrnUH-mAXSaiqGVa6t#scrollTo=XTgmNCx3mhkp
+
