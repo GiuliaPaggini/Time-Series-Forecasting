@@ -1,18 +1,14 @@
 # On the granularity of data: a Comparison between Classical and Deep Learning approaches for Time Series Forecasting
-This repository contains all the support material I have used for my final work. Time series analysis is the core of the project, in particular ARIMA and SARIMA, LSTM and Transformer models are compared across three financial datasets with different granularities.
-The repo is organized as follows:
+This repository contains all the supporting material I have used for my final work. Time series analysis is the core of the project, in particular ARIMA, SARIMA and LSTM models are compared across three financial datasets with different granularities.
+The structure goes as follows:
 
 1)Datasets
-  - AAPL Stock Price : daily frequency
-  - NASDAQ 100 Index : minute frequency
-  - WTI Crude Oil Price : monthly frequency
+  - NASDAQ 100 Index : minute frequency (Source: https://workspace.refinitiv.com/web/Apps/Index/?s=.NDX&st=RIC#/Apps/PriceHistory)
+  - AAPL Stock Price : daily frequency (Source: https://it.finance.yahoo.com/quote/AAPL/) 
+  - WTI Crude Oil Price : monthly frequency (Source: https://fred.stlouisfed.org/series/DCOILWTICO)
   
-2)Final paper link: https://www.overleaf.com/project/63f61fd58fcc2803bc84841d
+2)Final paper Overleaf : https://www.overleaf.com/project/63f61fd58fcc2803bc84841d
 
-3)Scratch notes: https://docs.google.com/document/d/1xFx0FGZKt_3r9jr3DqwtU-EFVa7I8YEcqdDrQzsQPYc/edit
-
-
-Sources database : https://docs.google.com/spreadsheets/d/1BV4IQEIfmvYyZ_Zg1SkKFrQpmAsXmIpWt6D6503Hm9Q/edit#gid=0
 
 Notes of the analysis: 
 
@@ -21,8 +17,5 @@ https://colab.research.google.com/drive/1jkrD2I6Kn4cNpBI0BuamBmp5FSBwkciO#scroll
 
 LSTM new https://colab.research.google.com/drive/1eTMbGWu9db1ql_oMTuNwzhn2H7a5QKuJ#scrollTo=12jBIRxyyVII
 
-
-- ARIMA/SARIMA (inviato al prof)
-- LSTM (inviato al prof)
 https://colab.research.google.com/drive/1KzfqZRZfSvFtYxtrnUH-mAXSaiqGVa6t#scrollTo=XTgmNCx3mhkp
 
