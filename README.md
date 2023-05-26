@@ -7,9 +7,8 @@ The structure goes as follows:
   - AAPL Stock Price : daily frequency (🔎 Source: https://it.finance.yahoo.com/quote/AAPL/) 
   - WTI Crude Oil Price : monthly frequency (🔎 Source: https://fred.stlouisfed.org/series/DCOILWTICO)
   
-💻 Notebook
-This folder contains all the printed notebooks from which the results have been derived.
-
+💻 Prophet Models 
+- This folder contains the notebooks of the Prophet model applied to either returns and closing price of AAPL and WTI Crude Oil data.
 
 
 Colab: https://colab.research.google.com/drive/157etElqtW29wuqbNWBybqjqWhdMsBMpJ#scrollTo=5cn2GzSeFTnu
@@ -19,5 +18,6 @@ LSTM new https://colab.research.google.com/drive/1eTMbGWu9db1ql_oMTuNwzhn2H7a5QK
 
 https://colab.research.google.com/drive/1KzfqZRZfSvFtYxtrnUH-mAXSaiqGVa6t#scrollTo=XTgmNCx3mhkp
 
-📝 Final Paper (🔎 Overleaf : https://www.overleaf.com/project/63f61fd58fcc2803bc84841d)
+📝 Final Paper 
+- The final paper can be visualized at https://www.overleaf.com/project/63f61fd58fcc2803bc84841d)
 
