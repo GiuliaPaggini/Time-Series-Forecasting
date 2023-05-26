@@ -3,9 +3,9 @@ This repository contains all the supporting material I have used for my final wo
 The structure goes as follows:
 
 📈 DATA
-  - NASDAQ 100 Index : minute frequency (🔎 Source: https://workspace.refinitiv.com/web/Apps/Index/?s=.NDX&st=RIC#/Apps/PriceHistory)
-  - AAPL Stock Price : daily frequency (🔎 Source: https://it.finance.yahoo.com/quote/AAPL/) 
-  - WTI Crude Oil Price : monthly frequency (🔎 Source: https://fred.stlouisfed.org/series/DCOILWTICO)
+  - NASDAQ 100 Index : minute frequency 
+  - AAPL Stock Price : daily frequency 
+  - WTI Crude Oil Price : monthly frequency 
   
 💻 Prophet Models 
 - This folder contains the notebooks of the Prophet model applied to either returns and closing price of AAPL and WTI Crude Oil data.
