@@ -7,7 +7,7 @@ The structure goes as follows:
   - AAPL Stock Price : daily frequency 
   - WTI Crude Oil Price : monthly frequency 
   
-**💻 Prophet Models **
+**💻 Prophet Models**
 - This folder contains the notebooks of the Prophet model. In particular, for both AAPL and WTI Crude Oil data, Prophet is tested both on log returns and adjusted closing price. The plot of the predictions, together with Prophet's components are displayed and extensively commented.
 
 **💻 LSTM Models**
@@ -19,7 +19,7 @@ The structure goes as follows:
 - WTI: https://colab.research.google.com/drive/1qAcYKTP6a6i2OyB0BGBALsY49FQv8MYJ#scrollTo=hfaFQFMBf04b
 
 
-**📝 Final Paper **
+**📝 Final Paper**
 - The final paper can be visualized at https://www.overleaf.com/project/63f61fd58fcc2803bc84841d)
 
 
