@@ -7,8 +7,6 @@ The structure goes as follows:
   - AAPL Stock Price : daily frequency 
   - WTI Crude Oil Price : monthly frequency 
   
-**💻 Prophet Models**
-- This folder contains the notebooks of the Prophet model. In particular, for both AAPL and WTI Crude Oil data, Prophet is tested both on log returns and adjusted closing price. The plot of the predictions, together with Prophet's components are displayed and extensively commented.
 
 **💻 LSTM Models**
 - This folder contains the notebooks where Long-Short Term Memory model is implemented, using keras and the Sequential object. The model is further wrapped in a KerasRegressor module to be further cross-validated using BlockTimeSeries procedure. The idea behind the model is to consider a look-back period, namely the number of days to use as a training set for making predictions, and a look-forward period, namely the number of minutes, days or months to predict. Lastly, RMSE metric is used to compare the performance of the models against the proposed baseline.
@@ -17,6 +15,16 @@ The structure goes as follows:
 - Nasdaq-100: https://colab.research.google.com/drive/1IqdDwXIG66M38LbZxOSPeG13MD3iPwwO#scrollTo=Q_dmEStEXyYL
 - AAPL: https://colab.research.google.com/drive/1eHXABMXdknTMtFB4HvrzTroudYuT0t6h#scrollTo=90BFT3O2fhZw
 - WTI: https://colab.research.google.com/drive/1qAcYKTP6a6i2OyB0BGBALsY49FQv8MYJ#scrollTo=hfaFQFMBf04b
+
+
+**💻 Prophet Models**
+- This folder contains the notebooks of the Prophet model. In particular, for both AAPL and WTI Crude Oil data, Prophet is tested both on log returns and adjusted closing price. The plot of the predictions, together with Prophet's components are displayed and extensively commented.
+
+**Prophet Notebook on Colab:**
+- AAPL: https://colab.research.google.com/drive/1A8qiJSabdD7HFMQtS-pqYczNHf6EBoMK?usp=sharing
+- WTI: https://colab.research.google.com/drive/1OzfKJRkRCW3tswjcVCEibh6LJgrso47L?usp=sharing
+
+
 
 
 **📝 Final Paper**
