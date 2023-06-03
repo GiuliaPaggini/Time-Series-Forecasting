@@ -7,6 +7,14 @@ The structure goes as follows:
   - AAPL Stock Price : daily frequency 
   - WTI Crude Oil Price : monthly frequency 
   
+**💻 ARMA-GARCH Models**
+
+
+**ARMA-GARCH Notebook on Colab:**
+- Nasdaq-100: https://colab.research.google.com/drive/1vk59OA905Ef-sAxpqRpDRvzVSLFkA9SB?usp=sharing
+- APPL: https://colab.research.google.com/drive/12LYQrW6jNCPRZl5ZqutiJIVdD-bCaoqO?usp=sharing
+- WTI: https://colab.research.google.com/drive/17-jIyzVTTBSOr-ZJiuMUBEkwfAGK4AV-?usp=sharing
+
 
 **💻 LSTM Models**
 - This folder contains the notebooks where Long-Short Term Memory model is implemented, using keras and the Sequential object. The model is further wrapped in a KerasRegressor module to be further cross-validated using BlockTimeSeries procedure. The idea behind the model is to consider a look-back period, namely the number of days to use as a training set for making predictions, and a look-forward period, namely the number of minutes, days or months to predict. Lastly, RMSE metric is used to compare the performance of the models against the proposed baseline.
@@ -23,9 +31,6 @@ The structure goes as follows:
 **Prophet Notebook on Colab:**
 - AAPL: https://colab.research.google.com/drive/1A8qiJSabdD7HFMQtS-pqYczNHf6EBoMK?usp=sharing
 - WTI: https://colab.research.google.com/drive/1OzfKJRkRCW3tswjcVCEibh6LJgrso47L?usp=sharing
-
-
-
 
 **📝 Final Paper**
 - The final paper can be visualized at https://www.overleaf.com/project/63f61fd58fcc2803bc84841d)
