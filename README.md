@@ -21,7 +21,7 @@ The structure goes as follows:
 - This folder contains the notebooks where Long-Short Term Memory model is implemented, using keras and the Sequential object. The model is further wrapped in a KerasRegressor module to be further cross-validated using BlockTimeSeries procedure. The idea behind the model is to consider a look-back period, namely the number of days to use as a training set for making predictions, and a look-forward period, namely the number of minutes, days or months to predict. Lastly, RMSE metric is used to compare the performance of the models against the proposed baseline.
 
 **LSTM Notebook on Colab:**
-- Nasdaq-100: https://colab.research.google.com/drive/1IqdDwXIG66M38LbZxOSPeG13MD3iPwwO#scrollTo=Q_dmEStEXyYL
+- Nasdaq-100: https://colab.research.google.com/drive/1Cq2Odvq1dKtUVVbuoAtRZB380v_3BTYn#scrollTo=I0Bhn2yWdJlh
 - AAPL: https://colab.research.google.com/drive/1eHXABMXdknTMtFB4HvrzTroudYuT0t6h#scrollTo=90BFT3O2fhZw
 - WTI: https://colab.research.google.com/drive/1qAcYKTP6a6i2OyB0BGBALsY49FQv8MYJ#scrollTo=hfaFQFMBf04b
 
