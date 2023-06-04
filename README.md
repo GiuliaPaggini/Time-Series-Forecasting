@@ -7,10 +7,10 @@ The structure goes as follows:
   - AAPL Stock Price : daily frequency 
   - WTI Crude Oil Price : monthly frequency 
   
-**💻 ARMA-GARCH Models**
+**💻 ARMA Models**
 
 
-**ARMA-GARCH Notebook on Colab:**
+**ARMA Notebook on Colab:**
 - Nasdaq-100: https://colab.research.google.com/drive/1vk59OA905Ef-sAxpqRpDRvzVSLFkA9SB?usp=sharing
 - APPL: https://colab.research.google.com/drive/12LYQrW6jNCPRZl5ZqutiJIVdD-bCaoqO?usp=sharing
 - WTI: https://colab.research.google.com/drive/17-jIyzVTTBSOr-ZJiuMUBEkwfAGK4AV-?usp=sharing
