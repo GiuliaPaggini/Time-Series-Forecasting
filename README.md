@@ -1,5 +1,5 @@
 # On the Granularity of Data: a Comparison between Classical and Deep Learning approaches for Time Series Forecasting
-This repository contains all the supporting material I have used for my final work. Time series analysis is the core of the project, in particular ARIMA, SARIMA and LSTM models are compared across three financial datasets with different granularities.
+This repository contains all the supporting material I have used for my final work. Time series analysis is the core of the project, in particular ARMA and LSTM models are compared across three financial datasets with different granularities.
 The structure goes as follows:
 
 **📈 DATA**
@@ -8,6 +8,7 @@ The structure goes as follows:
   - WTI Crude Oil Price : monthly frequency 
   
 **💻 ARMA Models**
+- This folder contains the notebook where ARMA and a hybrid model ARMA-GARCH are implemented. After a brief exploratory analysis, ARMA(1,1) is fitted on data and subsequently a GARCH(1,1) model is fitted on the residuals. As expected, the coefficient are significative and the model reproduces almost zero returns. According to the literature (see also RiskMetrics by J.P.Morgan) these model orders should be enough to deal with such data. Using a rolling window approach, ARMA is fitted using a look back and look forward period, and subsequently, the results are plotted againsta true data and confidence intervals at 90%.
 
 
 **ARMA Notebook on Colab:**
