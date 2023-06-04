@@ -12,7 +12,7 @@ The structure goes as follows:
 
 
 **ARMA Notebook on Colab:**
-- Nasdaq-100: https://colab.research.google.com/drive/1vk59OA905Ef-sAxpqRpDRvzVSLFkA9SB?usp=sharing
+- Nasdaq-100: https://colab.research.google.com/drive/1vk59OA905Ef-sAxpqRpDRvzVSLFkA9SB#scrollTo=K8xUorKyUtm8
 - APPL: https://colab.research.google.com/drive/12LYQrW6jNCPRZl5ZqutiJIVdD-bCaoqO#scrollTo=K8xUorKyUtm8
 - WTI: https://colab.research.google.com/drive/17-jIyzVTTBSOr-ZJiuMUBEkwfAGK4AV-?usp=sharing
 
