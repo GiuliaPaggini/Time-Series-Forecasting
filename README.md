@@ -1,5 +1,5 @@
 # On the Granularity of Data: a Comparison between Classical and Deep Learning approaches for Time Series Forecasting
-This repository contains all the supporting material I have used for my final work. Time series analysis is the core of the project, in particular ARMA and LSTM models are compared across three financial datasets with different granularities.
+This repository contains all the supporting material I have used for my final work. Time series analysis is the core of the project, in particular ARIMA and LSTM models are compared across three financial datasets with different granularities.
 The structure goes as follows:
 
 **📈 DATA**
