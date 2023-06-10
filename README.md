@@ -3,6 +3,7 @@ This repository contains all the supporting material I have used for my final wo
 The structure goes as follows:
 
 **📈 DATA**
+
 This folder contains all the raw data in csv or excel file, depending on the most suitable format given the source and the Python reader.
   - NASDAQ 100 Index : minute frequency 
   - AAPL Stock Price : daily frequency 
