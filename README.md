@@ -4,7 +4,7 @@ The structure goes as follows:
 
 **📈 DATA**
 
-This folder contains all the raw data in csv or excel file, depending on the most suitable format given the source and the Python reader.
+This folder contains all the raw data in csv or excel file, depending on the most suitable format.
   - NASDAQ 100 Index : minute frequency 
   - AAPL Stock Price : daily frequency 
   - WTI Crude Oil Price : monthly frequency 
